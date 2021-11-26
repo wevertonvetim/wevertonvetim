@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raysson ornelas" height="30" width="40" />](https://www.linkedin.com/in/weverton-soares-4aa387206/)
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Weverton Soares" height="30" width="40" />](https://www.linkedin.com/in/weverton-soares-4aa387206/)
 
 ### Languages and Tools:
 
